@@ -1,0 +1,207 @@
+
+.wrapper{
+height: 850px;
+width: 1700px;
+background-color: #EAF4ED; 
+border: solid;
+border-color: black;
+}
+
+.title{
+height: 100px;
+width: 600px;
+margin-left:90px;
+margin-top: 50px;
+float: left;
+background-color: 
+}
+
+.name{
+height: 100px;
+width: 600px;
+margin-left: -603px;
+margin-top: 65px;
+float: left;
+background-color: 
+}
+
+.aboutme{
+height: 100px;
+width: 600px;
+margin-left: -600px;
+margin-top: 170px;
+float: left;
+background-color: 
+}
+
+.aboutme2{
+height: 100px;
+width: 600px;
+margin-left: -600px;
+margin-top: 260px;
+float: left;
+background-color: 
+}
+
+.photo{
+height: 600px;
+width: 600px;
+margin-left:1200px;
+margin-top: -150px;
+float: left;
+background-color: 
+}
+
+.contact{
+height: 230px;
+width: 500px;
+margin-left:1200px;
+margin-top: 20px;
+float: left;
+background-color: #223F2C;
+}
+
+.contactname{
+height: 75px;
+width: 500px;
+margin-left: 40px;
+margin-top: -40px;
+float: left;
+background-color: ;
+}
+
+.call{
+height: 75px;
+width: 470px;
+margin-left: 15px;
+margin-top: 0px;
+float: left;
+background-color: ;
+}
+
+.email{
+height: 75px;
+width: 470px;
+margin-left: 15px;
+margin-top: -20px;
+float: left;
+background-color: ;
+}
+
+.link{
+height: 75px;
+width: 470px;
+margin-left: 15px;
+margin-top: -20px;
+float: left;
+background-color: ;
+}
+
+.work{
+height: 100px;
+width: 600px;
+margin-left: -1300px;
+margin-top: -150px;
+float: left;
+background-color: ;
+}
+
+.workbox{
+height: 200px;
+width: 600px;
+margin-left: -1420px;
+margin-top: -30px;
+float: left;
+background-color: ;
+}
+
+.portcity{
+height: 200px;
+width: 200px;
+margin-left: -25px;
+margin-top: -5px;
+float: left;
+background-color: ;
+}
+
+.dear{
+height: 200px;
+width: 200px;
+margin-left: 10px;
+margin-top: px;
+float: left;
+background-color: ;
+}
+
+.ll{
+height: 200px;
+width: 200px;
+margin-left: 10px;
+margin-top: 17px;
+float: left;
+background-color: ;
+}
+
+p{
+color: #388256;
+font-size: 30px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+
+
+}
+
+p2{
+color: #388256;
+font-size: 20px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+
+
+}
+
+
+h1{
+color: #041109;
+font-size: 60px;
+ 
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+h2{
+color: #041109;
+font-size: 40px;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+h3{
+color: whitesmoke;
+font-size: 40px;
+font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+
+}
+
+h4{
+color: whitesmoke;
+font-size: 25px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+
+
+}
+
+
+
+
